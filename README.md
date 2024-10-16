@@ -33,9 +33,9 @@
 ![图片](https://github.com/user-attachments/assets/a8485b71-6103-4e52-bf5b-ee34f595fcee)
 
 ## 后台运行
-![9af2a256f752d29fc7b198c6f5739986cec979cb](https://github.com/user-attachments/assets/e0573cb4-5687-4295-9759-71d5a8167f25)
+<img src="https://github.com/user-attachments/assets/e0573cb4-5687-4295-9759-71d5a8167f25" alt="图片" width="66%" height="66%">
 
 ## 前台操作
-![图片](https://github.com/user-attachments/assets/f2a09b29-484b-451e-b565-297fff004475)
 
+<img src="https://github.com/user-attachments/assets/f2a09b29-484b-451e-b565-297fff004475" alt="图片" width="66%" height="66%">
 
