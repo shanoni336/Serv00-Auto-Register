@@ -30,7 +30,7 @@
 # 项目截图
 
 ## 注册通过
-![图片](https://github.com/user-attachments/assets/2e35b8e2-254c-4ec5-b2d4-98196dc14310)
+![图片](https://github.com/user-attachments/assets/a8485b71-6103-4e52-bf5b-ee34f595fcee)
 
 ## 后台运行
 ![9af2a256f752d29fc7b198c6f5739986cec979cb](https://github.com/user-attachments/assets/e0573cb4-5687-4295-9759-71d5a8167f25)
