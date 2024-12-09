@@ -21,8 +21,8 @@ ocr = ddddocr.DdddOcr()
 app = FastAPI()
 
 # 静态文件目录
-os.makedirs("/static", exist_ok=True)
-app.mount("/static", StaticFiles(directory="static"), name="static")
+os.makedirs(".static", exist_ok=True)
+app.mount(".static", StaticFiles(directory="static"), name="static")
 cache = {}
 
 
